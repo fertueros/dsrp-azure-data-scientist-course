@@ -3,6 +3,7 @@
 .amlignore
 .amlignore.amltmp
 .gitignore.amltmp
+*.amltmp
 */.ipynb_aml_checkpoints/*
 __pycache__/
 *.py[cod]
